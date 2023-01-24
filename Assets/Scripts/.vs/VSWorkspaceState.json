@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Inputs",
+    "\\PlayerMotor",
+    "\\PlayerMotor\\State"
+  ],
+  "SelectedNode": "\\PlayerMotor\\State\\SlidingState.cs",
+  "PreviewInSolutionExplorer": false
+}

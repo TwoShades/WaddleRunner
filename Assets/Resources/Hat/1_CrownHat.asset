@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f249025537d0e04e955ef30b0db840c, type: 3}
+  m_Name: 1_CrownHat
+  m_EditorClassIdentifier: 
+  ItemName: The Crown
+  ItemPrice: 5
+  Thumbnail: {fileID: 21300000, guid: 7cd7b8898662db648970105ea53d8cf0, type: 3}
+  Model: {fileID: 2981710920193414377, guid: 13b63720a52c63547ba941b441f3a28f, type: 3}
